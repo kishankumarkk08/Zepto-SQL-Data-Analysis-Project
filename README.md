@@ -1,7 +1,9 @@
 
 # 🛒 Zepto SQL Data Analysis Project
 
-<img src="Zepto-logo.png" alt="Zepto Logo" style="display:block; margin-left:auto; margin-right:auto;" />
+![](<p align="center">
+  <img src="Zepto-logo.png" alt="Zepto Logo" width="300" />
+</p>)
 
 ## Overview
 This project performs data exploration, cleaning, and analysis on a dataset from [Zepto](https://www.zepto.com/)—a grocery delivery service. The dataset was imported from Kaggle and contains information about product pricing, availability, and weights.
